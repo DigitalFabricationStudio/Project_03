@@ -4,6 +4,6 @@ Nina Martin
 [Aalto Middle East Initiative](http://MiddleEastInitiative.blogspot.com)
 [My Portfolio](http://cargocollective.com/Manzanita)
 
-[Nina photo](/Users/Manzanita/Pictures/Ninasaur.jpg)
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/Nina.Martin/Ninasaur.jpg">
 
 The projects developed during the Digital Fabrication Studio course, 0.2 edition
