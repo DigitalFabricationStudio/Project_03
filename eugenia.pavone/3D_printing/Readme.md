@@ -8,5 +8,3 @@ Next step, prepare the file on Cura to print it with the **Ultimaker machine**. 
 
 **Print_time: 53 minutes.** 
 
-(/Users/eugeniapavone/Documents/Project_03/eugenia.pavone/3D_printing)
-
