@@ -23,5 +23,15 @@ STEPS of the project are
 9)testing the sound
 
 
+FUTURE DEVELOPMENTS
+
+Someone with a proper printer can already print out the mute optimized for Bach42 tenor trombone.
+Silicone strips to protect the brass need to be added, though.
+If the mute is printed as "a thin walled cup", the mute could host a microcontroller with additional features like sound/light effect
+
+Ring-type styrofoam mute needs to be modified for better hold in the bell of the brass.
+Also the optimal air flow needs to be studied for minimal change to the tonality/feel of playing.
+
+
 
 
