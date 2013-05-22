@@ -22,6 +22,12 @@ STEPS of the project are
 
 9)testing the sound
 
+10)testing the fit and sound. sound and control excellent with the mute with free airflow ventile. Restricted airflow ventile good for glissandos.
+
+11)first styrofoam ring shaped by cutting and sanding for better fit
+
+12)second styrofoam ring milled with CNC and sanded, glued together for the final prototype
+
 
 FUTURE DEVELOPMENTS
 
