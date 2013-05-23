@@ -15,4 +15,4 @@ Some pictures.
 
 ![Rough mill of the model](http://farm8.staticflickr.com/7445/8720830230_546a0de715_b.jpg)
 ![Milling large model failed because bit can't go deeper](http://farm8.staticflickr.com/7364/8719706313_0af21bafb9_b.jpg)
-![Selecting a partial area to mill]()
+![Selecting a partial area to mill](https://raw.github.com/DigitalFabricationStudio/Project_03/master/palash.mukhopadhyay/3D%20Milling/images/Photo%2014-05-13%2014%2000%2042.jpg)

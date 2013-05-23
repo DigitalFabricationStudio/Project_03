@@ -13,6 +13,7 @@ My model (35x25x15mm.) took approx. 1.5hrs. to print while the Cura software est
 
 Some pictures of the process.
 
+![Setting up the print on the Ultimaker](https://raw.github.com/DigitalFabricationStudio/Project_03/master/palash.mukhopadhyay/3D%20Print/images/Photo%2008-05-13%2011%2012%2033.jpg)
 ![Printing in progress](http://farm8.staticflickr.com/7363/8720520958_bb40c490f8_b.jpg)
 ![The finished print](http://farm8.staticflickr.com/7427/8719397661_2cfdfbbb19_b.jpg)
 ![Can't recognise Barbara, but quite cool!](http://farm8.staticflickr.com/7281/8720521934_6131aa59ce_b.jpg)
