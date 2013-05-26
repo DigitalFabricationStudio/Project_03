@@ -26,6 +26,9 @@ I've designed a tic-tac-toe game made of plywood and created a suitable "pocket"
 
 First, I made a 3D model of the playing board on rhino and measured the pieces thanks to the dimensions of the board. Making the board was the easy part of project. After that, I designed the package for the game in Illustrator by making several templates. 
 
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/eugenia.pavone/Final_project/Laser/box_packaging_laser.jpg">
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/eugenia.pavone/Final_project/Laser/x.o_laser.jpg">
+
 **Testing & prototyping -** 
 
 1. Milling - the board
