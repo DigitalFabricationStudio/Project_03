@@ -48,6 +48,6 @@ Below, some shots made of the final prototype in 0.1mm plywood.
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/eugenia.pavone/Final_project/Final_prototype_shots/ttt1.jpg">
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/eugenia.pavone/Final_project/Final_prototype_shots/ttt5.jpg">
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/eugenia.pavone/Final_project/Final_prototype_shots/ttt9.jpg">
-<img src="https://github.com/DigitalFabricationStudio/Project_03/blob/master/eugenia.pavone/Final_project/Final_prototype_shots/ttt10.jpg">
+<img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/eugenia.pavone/Final_project/Final_prototype_shots/ttt10.jpg">
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
