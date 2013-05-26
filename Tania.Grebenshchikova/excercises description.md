@@ -28,6 +28,6 @@ After about 16 hours the silicon will get hard.
 I used the same 3D model for 3D printing, milling and casting. The most detailed result was achieved with 3D printer. The milled shape was not that clear, the features of a face were hardly recognizable. Then after moulding and casting, when I had an ice shape, it became even more difficult to recognize the face.  
 
 
-# CC
+# CC.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Cloud coffee table</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.behance.net/Tania_Gre" property="cc:attributionName" rel="cc:attributionURL">Tania Grebenshchikova</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/DigitalFabricationStudio/Project_03/tree/master/Tania.Grebenshchikova/final%20project" rel="dct:source">https://github.com/DigitalFabricationStudio/Project_03/tree/master/Tania.Grebenshchikova/final%20project</a>.
