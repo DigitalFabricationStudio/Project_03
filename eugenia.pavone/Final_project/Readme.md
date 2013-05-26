@@ -30,13 +30,14 @@ First, I made a 3D model of the playing board on rhino and measured the pieces t
 
 1. Milling - the board
    * test_1: **problems -** too close to 0, not centered, material too thick
-   * test_2: **solutions -** thin material faster roughing, **problems -** board still not centered. 
+   * test_2: **solutions -** thin material, faster roughing, **problems -** board still not centered. 
 
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/eugenia.pavone/Final_project/Testing/Milling_test.1_wood.jpg">
 <img src="https://raw.github.com/DigitalFabricationStudio/Project_03/master/eugenia.pavone/Final_project/Testing/Milling_test.2_wood.jpg">
+***NB_For making those sample boards, I selected the roughing mode in Model player and used sanding paper to polish the wood to get a smooth result.***
 
 2. Laser cut - the package
-   * test_1: **problems -** plywood 1.2mm too thick, hard to fold, breaking easily. 
+   * test_1: **problems -** plywood 1.2mm too thick, hard to fold, breaks easily. 
    * test_2: **solutions -** thiner material, easier to fold, **problems -** still fragile when folding, disproportionate packaging. 
    * test_3 (final prototype): **solutions -** made package adjustments, perfect folding, **problems -** strong engraving, very thin. 
 
